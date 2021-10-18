@@ -53,3 +53,28 @@ Training: 2021-10-18 13:42:32,733-Speed 418.58 samples/sec   Loss 47.1615   Lear
 Training: 2021-10-18 13:42:48,341-Speed 410.13 samples/sec   Loss 46.0536   LearningRate 0.0250   Epoch: 0   Global Step: 150   Required: 0 hours
 Training: 2021-10-18 13:43:04,256-Speed 402.25 samples/sec   Loss 44.9172   LearningRate 0.0250   Epoch: 0   Global Step: 200   Required: 0 hours
 Training: 2021-10-18 13:43:20,144-Speed 402.89 samples/sec   Loss 44.1638   LearningRate 0.0250   Epoch: 0   Global Step: 250   Required: 0 hours
+Training: 2021-10-18 13:45:14,465-rank_id: 0
+Training: 2021-10-18 13:45:20,737-softmax weight init successfully!
+Training: 2021-10-18 13:45:20,737-softmax weight mom init successfully!
+Training: 2021-10-18 13:45:20,738-: loss                     arcface
+Training: 2021-10-18 13:45:20,738-: network                  r18
+Training: 2021-10-18 13:45:20,738-: resume                   False
+Training: 2021-10-18 13:45:20,738-: output                   /output
+Training: 2021-10-18 13:45:20,738-: dataset                  webface
+Training: 2021-10-18 13:45:20,738-: embedding_size           512
+Training: 2021-10-18 13:45:20,738-: sample_rate              1
+Training: 2021-10-18 13:45:20,738-: fp16                     False
+Training: 2021-10-18 13:45:20,738-: momentum                 0.9
+Training: 2021-10-18 13:45:20,738-: weight_decay             0.0005
+Training: 2021-10-18 13:45:20,738-: batch_size               64
+Training: 2021-10-18 13:45:20,738-: lr                       0.1
+Training: 2021-10-18 13:45:20,738-: rec                      /data
+Training: 2021-10-18 13:45:20,739-: num_classes              10572
+Training: 2021-10-18 13:45:20,739-: num_image                forget
+Training: 2021-10-18 13:45:20,739-: num_epoch                1
+Training: 2021-10-18 13:45:20,739-: warmup_epoch             -1
+Training: 2021-10-18 13:45:20,739-: decay_epoch              [20, 28, 32]
+Training: 2021-10-18 13:45:20,739-: val_targets              ['lfw', 'cfp_fp', 'agedb_30']
+Training: 2021-10-18 13:45:20,739-: warmup_step              -2555
+Training: 2021-10-18 13:45:20,739-: total_step               2555
+Training: 2021-10-18 13:45:20,739-: decay_step               [51106, 71549, 81770]
