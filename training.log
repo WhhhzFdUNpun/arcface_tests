@@ -79,3 +79,4 @@ Training: 2021-10-18 13:45:20,739-: warmup_step              -2555
 Training: 2021-10-18 13:45:20,739-: total_step               2555
 Training: 2021-10-18 13:45:20,739-: decay_step               [51106, 71549, 81770]
 Training: 2021-10-18 13:57:17,093-rank_id: 0
+Training: 2021-10-18 14:13:23,874-rank_id: 0
