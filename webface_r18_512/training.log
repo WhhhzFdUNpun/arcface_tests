@@ -1,0 +1,25 @@
+Training: 2021-10-18 21:23:59,700-rank_id: 0
+Training: 2021-10-18 21:24:05,924-softmax weight init successfully!
+Training: 2021-10-18 21:24:05,924-softmax weight mom init successfully!
+Training: 2021-10-18 21:24:05,925-: loss                     arcface
+Training: 2021-10-18 21:24:05,925-: network                  r18
+Training: 2021-10-18 21:24:05,925-: resume                   False
+Training: 2021-10-18 21:24:05,925-: output                   /output/webface_r18_512
+Training: 2021-10-18 21:24:05,925-: dataset                  webface
+Training: 2021-10-18 21:24:05,925-: embedding_size           512
+Training: 2021-10-18 21:24:05,925-: sample_rate              1
+Training: 2021-10-18 21:24:05,925-: fp16                     False
+Training: 2021-10-18 21:24:05,925-: momentum                 0.9
+Training: 2021-10-18 21:24:05,926-: weight_decay             0.0005
+Training: 2021-10-18 21:24:05,926-: batch_size               512
+Training: 2021-10-18 21:24:05,926-: lr                       0.1
+Training: 2021-10-18 21:24:05,926-: rec                      /data
+Training: 2021-10-18 21:24:05,926-: num_classes              10572
+Training: 2021-10-18 21:24:05,926-: num_image                forget
+Training: 2021-10-18 21:24:05,926-: num_epoch                1
+Training: 2021-10-18 21:24:05,926-: warmup_epoch             -1
+Training: 2021-10-18 21:24:05,926-: decay_epoch              [20, 28, 32]
+Training: 2021-10-18 21:24:05,926-: val_targets              ['lfw', 'cfp_fp', 'agedb_30']
+Training: 2021-10-18 21:24:05,926-: warmup_step              -479
+Training: 2021-10-18 21:24:05,926-: total_step               479
+Training: 2021-10-18 21:24:05,926-: decay_step               [9582, 13415, 15331]
